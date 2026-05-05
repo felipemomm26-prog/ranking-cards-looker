@@ -1,23 +1,23 @@
 {
   "name": "Ranking Cards",
-  "id": "ranking_cards_v1",
-  "resource": {
-    "js": ["rankingCards.js"],
-    "css": []
-  },
-  "data": {
-    "dimensions": [
-      "nome_de_guerra",
-      "nome_completo",
-      "Setor",
-      "Graduacao",
-      "Img_HTML"
-    ],
-    "metrics": [
-      "pontuacao",
-      "ranking",
-      "Perc_Assiduidade"
-    ]
-  },
-  "style": []
+  "logoUrl": "https://felipemomm26-prog.github.io/ranking-cards-looker/logo.png",
+  "organization": "Felipe Momm",
+  "organizationUrl": "https://felipemomm26-prog.github.io/ranking-cards-looker/",
+  "packageUrl": "https://felipemomm26-prog.github.io/ranking-cards-looker/",
+  "supportUrl": "https://felipemomm26-prog.github.io/ranking-cards-looker/",
+  "privacyPolicyUrl": "https://felipemomm26-prog.github.io/ranking-cards-looker/",
+  "termsOfServiceUrl": "https://felipemomm26-prog.github.io/ranking-cards-looker/",
+  "devMode": true,
+  "components": [
+    {
+      "id": "ranking_cards_v1",
+      "name": "Ranking Cards",
+      "description": "Cards de ranking de policiais",
+      "iconUrl": "https://felipemomm26-prog.github.io/ranking-cards-looker/logo.png",
+      "resource": {
+        "js": "https://felipemomm26-prog.github.io/ranking-cards-looker/rankingCards.js",
+        "config": "https://felipemomm26-prog.github.io/ranking-cards-looker/config.json"
+      }
+    }
+  ]
 }
