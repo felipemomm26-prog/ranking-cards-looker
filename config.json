@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "id": "main",
+      "label": "Dados",
+      "elements": [
+        { "type": "DIMENSION", "id": "nome_de_guerra" },
+        { "type": "DIMENSION", "id": "nome_completo" },
+        { "type": "DIMENSION", "id": "Setor" },
+        { "type": "DIMENSION", "id": "Graduacao" },
+        { "type": "DIMENSION", "id": "Img_HTML" },
+        { "type": "METRIC", "id": "pontuacao" },
+        { "type": "METRIC", "id": "ranking" },
+        { "type": "METRIC", "id": "Perc_Assiduidade" }
+      ]
+    }
+  ]
+}
