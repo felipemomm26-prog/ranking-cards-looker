@@ -1,0 +1,23 @@
+{
+  "name": "Ranking Cards",
+  "id": "ranking_cards_v1",
+  "resource": {
+    "js": ["rankingCards.js"],
+    "css": []
+  },
+  "data": {
+    "dimensions": [
+      "nome_de_guerra",
+      "nome_completo",
+      "Setor",
+      "Graduacao",
+      "Img_HTML"
+    ],
+    "metrics": [
+      "pontuacao",
+      "ranking",
+      "Perc_Assiduidade"
+    ]
+  },
+  "style": []
+}
